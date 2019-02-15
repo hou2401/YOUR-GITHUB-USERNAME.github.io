@@ -9,6 +9,7 @@
 <!--Step:1 为ECharts准备一个具备大小（宽高）的Dom-->
 
 <div id="mainMap" style="height:400px;width: 700px;padding:10px;background:#1B1B1B">
+	gggfgdfd
 </div>
 <!--Step:2 Import echarts.js--> 
 <!--Step:2 引入echarts.js-->
